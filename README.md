@@ -195,7 +195,6 @@ Busco uma oportunidade para atuar na área de **Tecnologia e Desenvolvimento de 
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Daniel-Cavalcante-dev&color=302b63&style=for-the-badge&label=Visitas+ao+perfil"/>
 
 </div>
 
