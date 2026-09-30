@@ -1,4 +1,4 @@
-<div align="center"> <img alt="Daniel Santana Cavalcante" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Daniel%20Santana%20Cavalcante&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Desenvolvimento%20%7C%20Tecnologia&descAlignY=58&descSize=18&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0"/> <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+SQL+%7C+C;L%C3%B3gica+de+Programa%C3%A7%C3%A3o+%7C+IA;Apaixonado+por+Tecnologia;Transformando+aprendizado+em+projetos;Em+busca+de+est%C3%A1gio+em+Tecnologia" /> <br>
+<div align="center"> <img alt="Daniel Santana Cavalcante" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Daniel%20Santana%20Cavalcante&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Desenvolvimento%20%7C%20Tecnologia&descAlignY=58&descSize=18&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0"/> <br>
 
 🔍 Em busca de estágio em Tecnologia / Desenvolvimento
 
@@ -15,8 +15,6 @@ Tenho interesse principalmente em Desenvolvimento Front-end, Engenharia de Softw
 
 📌 Atualmente estou em busca de uma vaga de estágio para colocar esse conhecimento em prática, aprender com profissionais da área e contribuir com um time de verdade.
 
-🚀 Atualmente estudando
-<div align="center"> <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Desenvolvimento+Front-end;%F0%9F%90%8D+Python;%E2%9A%99%EF%B8%8F+Linguagem+C;%F0%9F%97%84%EF%B8%8F+SQL+e+Banco+de+Dados;%F0%9F%A4%96+Intelig%C3%AAncia+Artificial;%F0%9F%8F%97%EF%B8%8F+Engenharia+de+Software;%F0%9F%A7%A0+L%C3%B3gica+de+Programa%C3%A7%C3%A3o" /> </div>
 🛠️ Tecnologias & Ferramentas
 <div align="center">
 
@@ -62,16 +60,8 @@ Projeto acadêmico voltado ao levantamento e análise dos processos de uma empre
 
 Modelagem de Dados SQL Engenharia de Requisitos
 
-📊 GitHub Analytics
-<div align="center"> <img height="165em" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Daniel-Cavalcante-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=true"/> <img height="165em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cavalcante-dev&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&hide_border=true"/> <br> <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Daniel-Cavalcante-dev&theme=tokyonight&hide_border=true&locale=pt_BR"/> <br> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Daniel-Cavalcante-dev&theme=tokyonight&column=7&margin-w=8&margin-h=8"/> </a>
-
-<br><br>
-
-<img alt="Gráfico de atividade" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Cavalcante-dev&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br><br>
-
-<details> <summary><b>🎨 Ver em outros temas</b></summary> <br> <img height="165em" alt="Estatísticas - tema radical" src="https://github-readme-stats.vercel.app/api?username=Daniel-Cavalcante-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br&hide_border=true"/> <img height="165em" alt="Linguagens - tema radical" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cavalcante-dev&layout=compact&langs_count=8&theme=radical&locale=pt-br&hide_border=true"/> <br> <img height="165em" alt="Estatísticas - tema dracula" src="https://github-readme-stats.vercel.app/api?username=Daniel-Cavalcante-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true"/> <img height="165em" alt="Linguagens - tema dracula" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cavalcante-dev&layout=donut&langs_count=8&theme=dracula&locale=pt-br&hide_border=true"/> </details> </div>
+🔥 Sequência de contribuições
+<div align="center"> <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Daniel-Cavalcante-dev&theme=tokyonight&hide_border=true&locale=pt_BR"/> </div>
 🐍 Atividade recente
 <div align="center"> <img alt="Snake animation" src="https://raw.githubusercontent.com/Daniel-Cavalcante-dev/Daniel-Cavalcante-dev/output/github-contribution-grid-snake.svg"/> </div>
 🎯 Objetivo profissional
@@ -108,8 +98,4 @@ text
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Daniel-Cavalcante-dev&color=7209b7&style=for-the-badge&label=Visitas+ao+perfil"/> </div>
-<div align="center"> <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Evolve.;Transformando+estudos+em+projetos.;Sempre+aprendendo+algo+novo.;🚀+Construindo+meu+futuro+na+tecnologia." />
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585"/> </div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585"/>
